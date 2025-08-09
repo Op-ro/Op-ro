@@ -33,9 +33,5 @@
 
 ---
 
-## 📫 Contact
-- 💬 Discord: @konkjoijljakdijookqweojkjlsdia
-
----
 
 <p align="center">✨ 매일 조금씩, 더 좋은 코드를 만듭니다 ✨</p>
