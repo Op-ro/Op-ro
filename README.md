@@ -34,7 +34,7 @@
 ---
 
 ## 📫 Contact
-- 💬 Discord: p_u_u
+- 💬 Discord: @konkjoijljakdijookqweojkjlsdia
 
 ---
 
