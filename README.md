@@ -1,37 +1,63 @@
-
-
 <h1 align="center">👋 Hi, I'm Opro</h1>
 <p align="center">
-  💻 Discord Bot & Automation Developer | 🎨 Pixel Art Enthusiast  
+  💻 Full-Stack Developer | 🤖 Automation Specialist | 🎨 Pixel Art Enthusiast  
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔹 전문 분야: Discord 봇 제작, 커뮤니티 자동화, API 연동  
-- 🔹 픽셀아트 & 사이버펑크 감성 좋아함  
-- 🔹 외주 + 개인 프로젝트 병행 중  
-- 🔹 목표: 커뮤니티 운영을 더 편하게 만드는 서비스 제작
+- 🔹 Discord 봇, 웹서비스, API 통합 등 **자동화 솔루션** 제작  
+- 🔹 프론트엔드부터 백엔드, 데이터베이스까지 **풀스택 개발** 가능  
+- 🔹 사이버펑크 & 픽셀아트 감성 프로젝트 즐겨 제작  
+- 🔹 목표: 커뮤니티와 비즈니스를 더 편리하게 만드는 서비스 제공  
 
 ---
 
 ## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![discord.py](https://img.shields.io/badge/discord.py-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
+
 | 프로젝트 | 설명 | 링크 |
 |----------|------|------|
-| 🎫 **Thread Ticket Bot** | 스레드 기반 티켓 시스템, 버튼 UI | [바로가기](https://github.com/사용자명/Thread-Ticket-Bot) |
-| 🤖 **AI Discord Bot** | ChatGPT API 연동 봇 | [바로가기](https://github.com/사용자명/AI-Discord-Bot) |
+| 🎫 **Thread Ticket Bot** | 스레드 기반 티켓 시스템, 버튼 UI 제공 | [바로가기](https://github.com/사용자명/Thread-Ticket-Bot) |
+| 🤖 **AI Discord Bot** | ChatGPT API 기반 대화형 봇 | [바로가기](https://github.com/사용자명/AI-Discord-Bot) |
 | 🔄 **Community Automation** | 공지 예약, 자동 번역, 역할 부여 | [바로가기](https://github.com/사용자명/Community-Automation) |
 
 ---
 
+## 📊 GitHub Stats & Activity
 
-<p align="center">✨ 매일 조금씩, 더 좋은 코드를 만듭니다 ✨</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=사용자명&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=사용자명&theme=tokyo-night" alt="activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=사용자명&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />  
+  ✨ 하루하루 더 나은 개발자로 성장 중
+</p>
