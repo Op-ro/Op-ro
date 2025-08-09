@@ -1,7 +1,4 @@
-<!-- 프로필 헤더 이미지 (원하면 본인 저장소에 업로드 후 경로 수정) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/사용자명/저장소명/main/profile.png" width="200" alt="Profile Image">
-</p>
+
 
 <h1 align="center">👋 Hi, I'm [닉네임]</h1>
 <p align="center">
@@ -37,8 +34,7 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: youremail@example.com  
-- 💬 Discord: you#0000  
+- 💬 Discord: p_u_u
 
 ---
 
