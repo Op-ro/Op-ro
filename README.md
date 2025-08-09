@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hi, I'm [닉네임]</h1>
+<h1 align="center">👋 Hi, I'm Opro</h1>
 <p align="center">
   💻 Discord Bot & Automation Developer | 🎨 Pixel Art Enthusiast  
 </p>
