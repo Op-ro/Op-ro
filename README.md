@@ -47,17 +47,6 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=사용자명&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=사용자명&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=사용자명&theme=tokyo-night" alt="activity graph" />
-</p>
-
----
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=사용자명&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />  
   ✨ 하루하루 더 나은 개발자로 성장 중
 </p>
